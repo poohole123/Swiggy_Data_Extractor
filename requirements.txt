@@ -1,1 +1,12 @@
-pandas
+# Swiggy Restaurant Menu Data Extraction
+
+This Python script fetches detailed menu data for a specific restaurant from Swiggy using the Swiggy API. It then outputs the data in a structured CSV format.
+
+## Instructions
+
+1. Make sure you have Python installed on your system.
+2. Install the required Python packages using the command:
+
+For requests package => pip -m pip install requests
+For pandas package => pip -m pip install pandas
+
